@@ -1,3 +1,9 @@
+# Linkdin-Clone
+I developed a replica of Linkedin which almost function like LinkedIn. The tech stack which I used are React.js, Redux, firebase. 
+- It is fully responsive and has an upload and sign-in and sign-out functionality. 
+- I used react hooks, firebase storage, firebase database to cater to the functional needs of the project.
+- I integrated google sign-in to make the login flow much faster.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
